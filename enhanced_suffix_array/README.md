@@ -1,22 +1,14 @@
-Nome: Chung Jin Shian
-Número USP: 12543482
+Programming Assignment 10: Suffix Array 
 
-Exercício-Programa 10: Vetor de sufixos 
+In order to compile main.cpp and their dependencies:
 
-Para compilar main.cpp e suas dependências, basta rodar:
-
-'''
 make build
-'''
 
-Para testar a executável main com a entrada input, basta rodar:
+In order to test the executable main with the input file:
 
-'''
 make run < input
-'''
 
-Para apagar a executável main, basta rodar:
-   
-'''               
+In order to erase the executable main:
+                  
 make clean
-'''
+
