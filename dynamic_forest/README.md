@@ -1,18 +1,19 @@
-Nome: Chung Jin Shian
-Número USP: 12543482
+### Programming Assignment 7: Dynamic forest 
 
-Exercício-Programa 3: Floresta Dinâmica
-Tempo médio estimado para finalizar: 12h
+#### In order to compile main.cpp and their dependencies:
 
-Para compilar main.cpp e suas dependências, basta rodar:
+```bash
+make build
+```
 
-   						make build
+#### In order to test the executable main with the input file:
 
-Para testar a executável main com a entrada input, basta rodar:
+```bash
+make run < input
+```
 
- 						make run < input
-
-Para apagar a executável main, basta rodar:
-                  
-						make clean
-
+#### In order to erase the executable main:
+           
+```bash                 
+make clean
+```
