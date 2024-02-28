@@ -1,4 +1,4 @@
-### Programming Assignment 6: Splay tree and Treap with split and join 
+### Programming Assignment 6: Persistent treap and Treap 
 
 #### In order to compile main.cpp and their dependencies:
 
@@ -6,13 +6,13 @@
 make build
 ```
 
-#### In order to test the Splay tree with the input file:
+#### In order to test the Treap with the input file:
 
 ```bash
 make run1 < input1
 ```
 
-### In order to test the Treap with the input file:
+### In order to test the Persistent treap with the input file:
 
 ```bash
 make run2 < input2
