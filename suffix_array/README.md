@@ -1,20 +1,19 @@
-Nome: Chung Jin Shian
-Número USP: 12543482
+### Programming Assignment 8: Trivial suffix array build
 
-Exercício-Programa 10: Vetor de sufixos 
-Tempo médio estimado para finalizar: 30h (incluso com o tempo de tentativa de fazer a T10)
+#### In order to compile main.cpp and their dependencies:
 
-Observações: eu havia começado a fazer a T10, mas depois de voltar da viagem, voltei a continuar e decidi não finalizar. Dessa forma, achei melhor simplesmente deixar a nota como parcial para esta tarefa. Embora você queira que a gente faça todas as tarefas, desta vez eu não consegui :(, desculpe-me, professora haha.
+```bash
+make build
+```
 
-Para compilar main.cpp e suas dependências, basta rodar:
+#### In order to test the executable main with the input file:
 
-   						make build
+```bash
+make run < input
+```
 
-Para testar a executável main com a entrada input, basta rodar:
-
- 						make run < input
-
-Para apagar a executável main, basta rodar:
-                  
-						make clean
-
+#### In order to erase the executable main:
+           
+```bash                 
+make clean
+```
