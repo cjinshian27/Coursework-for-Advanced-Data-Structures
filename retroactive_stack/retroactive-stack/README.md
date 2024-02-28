@@ -1,18 +1,19 @@
-Nome: Chung Jin Shian
-Número USP: 12543482
+### Programming Assignment 3: Retroactive Stack 
 
-Exercício-Programa 3: Pilha Totalmente Retroativa
-Tempo médio estimado para finalizar: 20h
+#### In order to compile main.cpp and their dependencies:
 
-Para compilar main.cpp e suas dependências, basta rodar:
+```bash
+make build
+```
 
-   						make build
+#### In order to test the executable main with the input file:
 
-Para testar a executável main com a entrada input, basta rodar:
+```bash
+make run < input
+```
 
- 						make run < input
-
-Para apagar a executável main, basta rodar:
-                  
-						make clean
-
+#### In order to erase the executable main:
+           
+```bash                 
+make clean
+```
