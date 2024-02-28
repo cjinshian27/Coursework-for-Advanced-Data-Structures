@@ -1,22 +1,25 @@
-Nome: Chung Jin Shian
-Número USP: 12543482
+### Programming Assignment 6: Splay tree and Treap with split and join 
 
-Exercício-Programa 6: Splay Tree e Treap
-Tempo médio estimado para finalizar: 15h
+#### In order to compile main.cpp and their dependencies:
 
-Para compilar main.cpp e suas dependências, basta rodar:
+```bash
+make build
+```
 
-   			make build
+#### In order to test the Splay tree with the input file:
 
-Para testar a Splay Tree, rode:
+```bash
+make run1 < input1
+```
 
-			make run1 < input1
+### In order to test the Treap with the input file:
 
-Para testar a Treap, rode:
+```bash
+make run2 < input2
+```
 
-			make run2 < input2
-
-Para apagar as executáveis main, basta rodar:
-                  
-			make clean
-
+#### In order to erase the executable main:
+           
+```bash                 
+make clean
+```
