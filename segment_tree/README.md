@@ -1,14 +1,25 @@
-Nome: Chung Jin Shian
-Número USP: 12543482
-Tempo estimado: 15h
+### Programming Assignment 4: Segment tree and Dynamic segment tree 
 
-Exercício-Programa 2: Árvore de segmentos e Árvore de segmentos dinâmica
+#### In order to compile main.cpp and their dependencies:
 
-Para compilar os arquivos, rode:
-   			make build
-Para testar a Árvore de segmentos, rode:
-			make run1 < input1
-Para testar a Árvore de segmentos dinâmica:
-			make run2 < input2
-Para apagar os executáveis main da pasta:
-			make clean
+```bash
+make build
+```
+
+#### In order to test the Segment tree with the input file:
+
+```bash
+make run1 < input1
+```
+
+### In order to test the Dynamic Segment tree with the input file:
+
+```bash
+make run2 < input2
+```
+
+#### In order to erase the executable main:
+           
+```bash                 
+make clean
+```
